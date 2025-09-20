@@ -18,7 +18,8 @@ I enjoy building real-world applications that solve problems, improve user exper
 📚 **Currently Learning**  
 - **DSA** to strengthen problem-solving and coding interview skills  
 - Advanced React patterns & full-stack architecture  
-- Deployment pipelines & system design basics  
+- Deployment pipelines & system design basics 
+- Exploring new topics in **AI & Machine Learning** 
 
 📫 **Reach me at:**  
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?logo=gmail&logoColor=white)](mailto:mehrahitesh2006@gmail.com)  
